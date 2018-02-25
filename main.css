@@ -15,4 +15,6 @@ main {
   border: 1px solid black;
   width: 400px;
   height: 400px;
+  background-image: url("kitten.gif");
+  background-repeat: repeat-x repeat-y;
 }
